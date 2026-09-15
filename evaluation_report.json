@@ -1,0 +1,9 @@
+{
+  "test_auc_roc": 0.879,
+  "sensitivity_at_90pct_specificity": 0.768,
+  "operating_threshold": 0.4727,
+  "achieved_specificity": 0.9001,
+  "brier_score": 0.0974,
+  "n_test_windows": 5849,
+  "test_positive_rate": 0.0928
+}

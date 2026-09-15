@@ -1,0 +1,8 @@
+{
+  "val_auc_roc": 0.8795,
+  "test_auc_roc": 0.879,
+  "n_train": 27385,
+  "n_val": 5800,
+  "n_test": 5849,
+  "train_positive_rate": 0.088
+}
